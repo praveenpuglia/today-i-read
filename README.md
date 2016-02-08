@@ -8,3 +8,6 @@ Anything new I read about the Web gets a place here.
 #### 05-02-2016
 - [ ] SVG Tutorial : Introduction - MDN - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial - **IN PROGRESS**
     * WEBMARK - Gradients - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Gradients
+
+#### 08-02-2016
+- [ ] JavaScript Releases : ES2016 and Beyond - http://javascriptplayground.com/blog/2016/02/es2016-and-beyond
