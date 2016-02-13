@@ -11,3 +11,6 @@ Anything new I read about the Web gets a place here.
 
 #### 08-02-2016
 - [x] JavaScript Releases : ES2016 and Beyond - http://javascriptplayground.com/blog/2016/02/es2016-and-beyond
+
+#### 13-02-2016
+- [x] The `background-clip` Property and its Use Cases - https://css-tricks.com/the-backgound-clip-property-and-use-cases/
