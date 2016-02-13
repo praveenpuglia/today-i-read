@@ -14,3 +14,4 @@ Anything new I read about the Web gets a place here.
 
 #### 13-02-2016
 - [x] The `background-clip` Property and its Use Cases - https://css-tricks.com/the-backgound-clip-property-and-use-cases/
+- [ ] Why Do We Have `repeating-linear-gradient` Anyway? - https://css-tricks.com/why-do-we-have-repeating-linear-gradient-anyway/
