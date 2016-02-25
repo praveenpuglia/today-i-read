@@ -8,8 +8,7 @@ Date Format : DD-MM-YYYY
 - [X] **CSS Best Practices** - Fantasai - http://fantasai.inkedblade.net/style/talks/best-practices/
 
 #### 05-02-2016
-- [ ] **SVG Tutorial : Introduction** - MDN - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial - `IN PROGRESS`
-    - **WEBMARK - Gradients** - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Gradients
+- [x] **SVG Tutorial** - MDN - https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 
 #### 08-02-2016
 - [x] **JavaScript Releases : ES2016 and Beyond** - http://javascriptplayground.com/blog/2016/02/es2016-and-beyond
@@ -21,3 +20,5 @@ Date Format : DD-MM-YYYY
 #### 16-02-2016
 - [x] **Why I love working with the web** - https://remysharp.com/2016/01/20/why-i-love-working-with-the-web
 
+#### 25-02-2016
+- [x] **CSS Basic User Interface - Text Overflow** - https://drafts.csswg.org/css-ui-3/#text-overflow
