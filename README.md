@@ -28,3 +28,6 @@ Date Format : DD-MM-YYYY
 
 #### 07-03-2016
 - **How did you...** http://codepen.io/thebabydino/post/how-did-you
+
+#### 23-04-2016 (After long time...)
+- **The Web isn't uniform** - https://medium.com/@fox/the-web-isn-t-uniform-fd67eb631501
