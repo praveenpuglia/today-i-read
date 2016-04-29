@@ -31,3 +31,6 @@ Date Format : DD-MM-YYYY
 
 #### 23-04-2016 (After long time...)
 - **The Web isn't uniform** - https://medium.com/@fox/the-web-isn-t-uniform-fd67eb631501
+
+#### 29-04-2016
+- **Inheritance By Example - 2Ality** - https://github.com/rauschma/inheritance-by-example
