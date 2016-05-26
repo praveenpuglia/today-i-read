@@ -46,3 +46,4 @@ Date Format : DD-MM-YYYY
 - **Regressive Web Apps** - https://adactio.com/journal/10708
 - **Sticky Footer, Five Ways** - https://css-tricks.com/couple-takes-sticky-footer/
 - **Reactive UIs with Angular 2.0** - http://blog.swazza.io/posts/reactive-ui-ng2
+- **How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist** -https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3
