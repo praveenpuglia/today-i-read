@@ -45,3 +45,4 @@ Date Format : DD-MM-YYYY
 #### 26-05-2016
 - **Regressive Web Apps** - https://adactio.com/journal/10708
 - **Sticky Footer, Five Ways** - https://css-tricks.com/couple-takes-sticky-footer/
+- **Reactive UIs with Angular 2.0** - http://blog.swazza.io/posts/reactive-ui-ng2
