@@ -47,3 +47,4 @@ Date Format : DD-MM-YYYY
 - **Sticky Footer, Five Ways** - https://css-tricks.com/couple-takes-sticky-footer/
 - **Reactive UIs with Angular 2.0** - http://blog.swazza.io/posts/reactive-ui-ng2
 - **How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist** -https://medium.com/swlh/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3
+- **Why is 0.1+0.2 not equal to 0.3 in most programming languages?** - https://www.quora.com/Why-is-0-1+0-2-not-equal-to-0-3-in-most-programming-languages
