@@ -58,3 +58,6 @@ Date Format : DD-MM-YYYY
 
 #### 08-06-2016
 - **Websites We Like June 2016** - https://css-tricks.com/websites-we-like-june-2016/
+
+#### 10-06-2016
+- **Autofill: What web devs should know, but don’t** - http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/
