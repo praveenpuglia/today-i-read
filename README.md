@@ -61,3 +61,6 @@ Date Format : DD-MM-YYYY
 
 #### 10-06-2016
 - **Autofill: What web devs should know, but don’t** - http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/
+
+#### 15-06-2016
+- **Designing Modular UI Systems Via Style Guide-Driven Development** - https://www.smashingmagazine.com/2016/06/designing-modular-ui-systems-via-style-guide-driven-development/
