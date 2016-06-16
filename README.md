@@ -64,3 +64,6 @@ Date Format : DD-MM-YYYY
 
 #### 15-06-2016
 - **Designing Modular UI Systems Via Style Guide-Driven Development** - https://www.smashingmagazine.com/2016/06/designing-modular-ui-systems-via-style-guide-driven-development/
+
+#### 16-06-2016
+- **WTFUK** - https://medium.com/@rachelnabors/wtfuk-73009d5623b4#.91g1pzozr
