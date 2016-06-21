@@ -67,3 +67,6 @@ Date Format : DD-MM-YYYY
 
 #### 16-06-2016
 - **WTFUK** - https://medium.com/@rachelnabors/wtfuk-73009d5623b4#.91g1pzozr
+
+#### 21-06-2016
+- **tsconfig.json** - http://www.typescriptlang.org/docs/handbook/tsconfig-json.html
