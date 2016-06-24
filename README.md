@@ -70,3 +70,6 @@ Date Format : DD-MM-YYYY
 
 #### 21-06-2016
 - **tsconfig.json** - http://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+
+#### 24-06-2016
+- **Don't just code: Career advice from the programming masters** - http://www.infoworld.com/article/3085150/application-development/dont-just-code-career-advice-from-the-programming-masters.html
