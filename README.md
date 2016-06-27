@@ -73,3 +73,6 @@ Date Format : DD-MM-YYYY
 
 #### 24-06-2016
 - **Don't just code: Career advice from the programming masters** - http://www.infoworld.com/article/3085150/application-development/dont-just-code-career-advice-from-the-programming-masters.html
+
+#### 27-06-2016
+- **Beginner's guide to Webpack** - https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.jworzq7z4
