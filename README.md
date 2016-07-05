@@ -76,3 +76,6 @@ Date Format : DD-MM-YYYY
 
 #### 27-06-2016
 - **Beginner's guide to Webpack** - https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.jworzq7z4
+
+#### 05-07-2016
+- **Front-End Challenge Accepted: CSS 3D Cube** - https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cube/
