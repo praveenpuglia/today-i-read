@@ -79,3 +79,6 @@ Date Format : DD-MM-YYYY
 
 #### 05-07-2016
 - **Front-End Challenge Accepted: CSS 3D Cube** - https://www.smashingmagazine.com/2016/07/front-end-challenge-accepted-css-3d-cube/
+
+#### 18-07-2016
+- **Considerations for Styling a Modal** - https://css-tricks.com/considerations-styling-modal/
