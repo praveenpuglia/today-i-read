@@ -82,3 +82,6 @@ Date Format : DD-MM-YYYY
 
 #### 18-07-2016
 - **Considerations for Styling a Modal** - https://css-tricks.com/considerations-styling-modal/
+
+#### 20-07-2016
+- **Shim Vs Polyfill** - http://www.2ality.com/2011/12/shim-vs-polyfill.html
