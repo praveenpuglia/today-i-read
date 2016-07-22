@@ -85,3 +85,6 @@ Date Format : DD-MM-YYYY
 
 #### 20-07-2016
 - **Shim Vs Polyfill** - http://www.2ality.com/2011/12/shim-vs-polyfill.html
+
+#### 22-07-2016
+- **Six nifty ES6 Tricks** - http://www.2ality.com/2016/05/six-nifty-es6-tricks.html
