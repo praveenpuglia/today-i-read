@@ -88,3 +88,6 @@ Date Format : DD-MM-YYYY
 
 #### 22-07-2016
 - **Six nifty ES6 Tricks** - http://www.2ality.com/2016/05/six-nifty-es6-tricks.html
+
+#### 26-07-2016
+- **CSS toggle() function** - https://www.w3.org/TR/css3-values/#toggle-notation
