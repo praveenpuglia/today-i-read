@@ -94,3 +94,7 @@ Date Format : DD-MM-YYYY
 
 #### 28-07-2016
 - **Stuff I wish I'd known sooner about Service Workers** - https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9
+
+#### 29-07-2016
+- **Angular 2: Why TypeScript** - https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8#.la8syewtc
+- **The Introduction to Reactive Programming you've been missing** - https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
