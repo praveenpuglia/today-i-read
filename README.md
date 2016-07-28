@@ -91,3 +91,6 @@ Date Format : DD-MM-YYYY
 
 #### 26-07-2016
 - **CSS toggle() function** - https://www.w3.org/TR/css3-values/#toggle-notation
+
+#### 28-07-2016
+- **Stuff I wish I'd known sooner about Service Workers** - https://gist.github.com/Rich-Harris/fd6c3c73e6e707e312d7c5d7d0f3b2f9
