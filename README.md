@@ -104,3 +104,6 @@ Date Format : DD-MM-YYYY
 
 #### 06-07-2016
 - **The Future Generation of CSS Selectors : Level 4** - https://www.sitepoint.com/future-generation-css-selectors-level-4/
+
+#### 18-08-2016
+- **5 Rookie Mistakes to avoid with Angular 2** - http://angularjs.blogspot.in/2016/04/5-rookie-mistakes-to-avoid-with-angular.html
