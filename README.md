@@ -107,3 +107,6 @@ Date Format : DD-MM-YYYY
 
 #### 18-08-2016
 - **5 Rookie Mistakes to avoid with Angular 2** - http://angularjs.blogspot.in/2016/04/5-rookie-mistakes-to-avoid-with-angular.html
+
+#### 24-08-2016
+- **I Contributed To An Open-Source Editor, And So Can You** - https://www.smashingmagazine.com/2016/08/contributing-open-source/
