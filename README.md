@@ -110,3 +110,6 @@ Date Format : DD-MM-YYYY
 
 #### 24-08-2016
 - **I Contributed To An Open-Source Editor, And So Can You** - https://www.smashingmagazine.com/2016/08/contributing-open-source/
+
+#### 29-08-2016
+- **Custom elements v1: reusable web components | Web Fundamentals - Google Developers** - https://medium.com/@robdodson/the-case-for-custom-elements-part-1-65d807b4b439#.rr4lbziwl
