@@ -113,3 +113,6 @@ Date Format : DD-MM-YYYY
 
 #### 29-08-2016
 - **Custom elements v1: reusable web components | Web Fundamentals - Google Developers** - https://medium.com/@robdodson/the-case-for-custom-elements-part-1-65d807b4b439#.rr4lbziwl
+
+#### 09-09-2016
+- **8 Clever Tricks with CSS Functions** - https://www.sitepoint.com/8-clever-tricks-with-css-functions/?utm_content=bufferf418a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
