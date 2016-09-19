@@ -116,3 +116,6 @@ Date Format : DD-MM-YYYY
 
 #### 09-09-2016
 - **8 Clever Tricks with CSS Functions** - https://www.sitepoint.com/8-clever-tricks-with-css-functions/?utm_content=bufferf418a&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
+#### 20-09-2016
+- **Counters | Codrops CSS Reference** - http://tympanus.net/codrops/css_reference/counters/
