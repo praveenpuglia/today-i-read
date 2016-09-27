@@ -119,3 +119,6 @@ Date Format : DD-MM-YYYY
 
 #### 20-09-2016
 - **Counters | Codrops CSS Reference** - http://tympanus.net/codrops/css_reference/counters/
+
+#### 27-09-2016
+- **Twelve Fancy Chrome Devtools Tips** - https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.ypol2ues5
