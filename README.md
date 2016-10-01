@@ -122,3 +122,6 @@ Date Format : DD-MM-YYYY
 
 #### 27-09-2016
 - **Twelve Fancy Chrome Devtools Tips** - https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d#.ypol2ues5
+
+### 01-10-2016
+- **How React Do?** - http://blog.jfo.click/how-react-do/
