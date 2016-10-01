@@ -125,3 +125,4 @@ Date Format : DD-MM-YYYY
 
 #### 01-10-2016
 - **How React Do?** - http://blog.jfo.click/how-react-do/
+- **text-emphasis - CSS** - https://developer.mozilla.org/en-US/docs/Web/CSS/text-emphasis
