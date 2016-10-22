@@ -132,3 +132,4 @@ Date Format : DD-MM-YYYY
 
 #### 22-10-2016
 - **Can we stop bad-mouthing CSS in developer talks, please?** - https://www.christianheilmann.com/2016/10/05/can-we-stop-bad-mouthing-css-in-developer-talks-please/
+- **On Style Maintenance** - https://css-tricks.com/on-style-maintenance/
