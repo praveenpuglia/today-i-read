@@ -139,3 +139,7 @@ Date Format : DD-MM-YYYY
 
 #### 09-02-2017
 - **Getting Started With CSS `calc()`** - https://www.smashingmagazine.com/2015/12/getting-started-css-calc-techniques/
+
+#### 20-02-2017
+- **CSS Grid Layout Terminology, Explained** - https://bitsofco.de/css-grid-terminology/
+- **More Readable CSS with CSS Custom Properties** - https://sgom.es/posts/2017-02-03-more-readable-css-with-css-custom-properties/
