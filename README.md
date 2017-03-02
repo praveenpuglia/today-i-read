@@ -143,3 +143,7 @@ Date Format : DD-MM-YYYY
 #### 20-02-2017
 - **CSS Grid Layout Terminology, Explained** - https://bitsofco.de/css-grid-terminology/
 - **More Readable CSS with CSS Custom Properties** - https://sgom.es/posts/2017-02-03-more-readable-css-with-css-custom-properties/
+
+#### 02-03-2017
+- **CSS4 Variables & SASS** - https://codepen.io/jakealbaugh/post/css4-variables-and-sass
+- **CSS Custom Properties (native variables) in Depth** - https://blog.hospodarets.com/css_properties_in_depth
