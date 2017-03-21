@@ -147,3 +147,6 @@ Date Format : DD-MM-YYYY
 #### 02-03-2017
 - **CSS4 Variables & SASS** - https://codepen.io/jakealbaugh/post/css4-variables-and-sass
 - **CSS Custom Properties (native variables) in Depth** - https://blog.hospodarets.com/css_properties_in_depth
+
+#### 21-03-2017
+- **2017 is the year that front-end developers should go back and master the basics** - https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.fk48bz9y1
