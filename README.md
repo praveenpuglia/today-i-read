@@ -150,3 +150,7 @@ Date Format : DD-MM-YYYY
 
 #### 21-03-2017
 - **2017 is the year that front-end developers should go back and master the basics** - https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.fk48bz9y1
+
+#### 22-03-2017
+- **How to create an interactive command in Node.js** - http://enzolutions.com/articles/2014/09/08/how-to-create-an-interactive-command-in-node-js/
+
