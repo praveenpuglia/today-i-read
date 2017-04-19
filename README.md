@@ -156,4 +156,5 @@ Date Format : DD-MM-YYYY
 - **Testing like the TSA** - https://signalvnoise.com/posts/3159-testing-like-the-tsa
 
 #### 19-04-2017
-- **Async Iterators & Generators** -https://jakearchibald.com/2017/async-iterators-and-generators/ 
+- **Async Iterators & Generators** - https://jakearchibald.com/2017/async-iterators-and-generators/ 
+- **Debugging Tips & Tricks** - https://css-tricks.com/debugging-tips-tricks/
