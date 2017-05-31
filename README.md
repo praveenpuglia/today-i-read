@@ -158,5 +158,3 @@ Date Format : DD-MM-YYYY
 #### 19-04-2017
 - **Async Iterators & Generators** - https://jakearchibald.com/2017/async-iterators-and-generators/ 
 - **Debugging Tips & Tricks** - https://css-tricks.com/debugging-tips-tricks/
-
-#### 31-05-2017
